@@ -130,4 +130,4 @@ I have used ***Stripe*** for handling payment of the order. Stripe officially pr
 Deployment
 ====================
 
-As I have mentioned firstly, the project in deployed on [pythonanywhere.com](http://nabil.pythonanywhere.com/) with free hosting facility and can be viewed live on this domain ***nabil.pythonanywhere.com***
+As I have mentioned firstly, the project in deployed on [pythonanywhere.com](http://nabil.pythonanywhere.com/) with free hosting facility and can be viewed live on this domain ***hex1227.pythonanywhere.com***
